@@ -1,2 +1,5 @@
 Flask
 Gunicorn
+torchvision
+transformers[ja]
+sentencepiece
